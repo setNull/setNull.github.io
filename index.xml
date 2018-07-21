@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>一米一粟的技术博客</title>
-    <link>http://example.org/</link>
+    <link>https://setnull.github.io/</link>
     <description>Recent content on 一米一粟的技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 21 Jul 2018 19:12:07 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://setnull.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://setnull.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 21 Jul 2018 19:12:07 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://setnull.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
