@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://setnull.github.io/post/my_first_post/</loc>
+    <loc>https://setnull.github.io/post/hugo-integrated-gitment-plugin/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url>
   
@@ -26,7 +26,19 @@
   </url>
   
   <url>
-    <loc>https://setnull.github.io/tags/ml/</loc>
+    <loc>https://setnull.github.io/tags/github/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://setnull.github.io/tags/gitment/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://setnull.github.io/tags/hugo/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <priority>0</priority>
   </url>
