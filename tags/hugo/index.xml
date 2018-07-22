@@ -12,11 +12,11 @@
     
     <item>
       <title>Hello, World</title>
-      <link>https://setnull.github.io/post/hugo-integrated-gitment-plugin/</link>
+      <link>https://setnull.github.io/post/my-first-post/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://setnull.github.io/post/hugo-integrated-gitment-plugin/</guid>
-      <description>PlaceHold.</description>
+      <guid>https://setnull.github.io/post/my-first-post/</guid>
+      <description>PlaceHold. Now when you visit any of the locations specified in aliases—i.e., assuming the same site domain—you’ll be redirected to the page they are specified on. For example, a visitor to example.com/posts/my-original-url/ will be immediately redirected to example.com/posts/my-awesome-post/.</description>
     </item>
     
   </channel>
