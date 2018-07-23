@@ -3,49 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://setnull.github.io/post/my-first-post/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://yimiyisu.club/posts/hosting-hugo-with-github-pages/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/about/</loc>
+    <loc>https://yimiyisu.club/about/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/categories/</loc>
+    <loc>https://yimiyisu.club/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yimiyisu.club/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://setnull.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://setnull.github.io/tags/gitment/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://yimiyisu.club/categories/effective/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/tags/hugo/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://yimiyisu.club/tags/github-pages/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/post/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://yimiyisu.club/tags/hugo/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://setnull.github.io/tags/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://yimiyisu.club/tags/me/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiyisu.club/posts/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiyisu.club/tags/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
