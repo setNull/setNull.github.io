@@ -23,9 +23,9 @@
     },
     {
         "draft": false,
-        "uri": "posts/Hosting-hugo-with-github-pages",
+        "uri": "posts/hosting-hugo-with-github-pages",
         "content": "GitHub Hugo",
-        "objectID": "posts/Hosting-hugo-with-github-pages",
+        "objectID": "posts/hosting-hugo-with-github-pages",
         "date": "2018-07-23",
         "title": "Host Blog on Github Pages",
         "categories": "Effective",
