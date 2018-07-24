@@ -186,7 +186,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Search jimmysong.io</h4>
+          <h4 class="modal-title">Searching yimiyisu.club</h4>
         </div>
         <div class="modal-body">
             
@@ -198,13 +198,13 @@
 </div>
 
 
+<script src="https://yimiyisu.club/js/algoliasearch.min.js"></script>
+<script src="https://yimiyisu.club/js/autocomplete.min.js"></script>
 
-<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/algoliasearch.min.js"></script>
-<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/autocomplete.min.js"></script>
 
 <script>
-var client = algoliasearch("X4YB3WOBNV", "4bfe9116489df902f720b8c4d468391e");
-var index = client.initIndex('rootsongjc-hugo');
+var client = algoliasearch("Z0U6RUICAF", "4bfe9116489df902f720b8c4d468391e");
+var index = client.initIndex('blog.yimiyisu');
 
 autocomplete('#aa-search-input',
 { hint: false}, {
@@ -341,46 +341,35 @@ autocomplete('#aa-search-input',
                  
             </div>
             
-            
-            
-            
-<div>
-    <section id="datecount">
-        <h4 id="date"> Mon Jul 23, 2018</h4>
-    </section>
-    <h5 id="wc">100 Words|Read in about 1 Min</h5>
-    <h5 id="tags">Tags: 
-        
-        <a href="https://yimiyisu.clubtags/hugo/">hugo</a> &nbsp;
-        
-        <a href="https://yimiyisu.clubtags/github-pages/">github-pages</a> &nbsp;
-    </h5>
-</div>
-
-            
             </div>
             
             
                 
                  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <aside id=comments>
-    
-    
-    
-    
-    <div id="lv-container" data-id="city" data-uid="MTAyMC8zNjI4Ni8xMjgyMQ==">
-    	<script type="text/javascript">
-       (function(d, s) {
-           var j, e = d.getElementsByTagName(s)[0];
-           if (typeof LivereTower === 'function') { return; }
-           j = d.createElement(s);
-           j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-           j.async = true;
-           e.parentNode.insertBefore(j, e);
-       })(document, 'script');
-    	</script>
-    <noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+    <div>
+        <h2> Comments </h2>
     </div>
+    <div id="container"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            id: '',
+            owner: 'setNull', 
+            repo: 'setNull.github.io', 
+            oauth: {
+            
+            
+           
+            client_id: '80645cefedb52a774ceb',
+            client_secret: 'bb02e7236dce6c0331c36158d6938e6dd2746c7c',
+            },
+        })
+        gitment.render('container')
+    </script>
+    
+    
     
 </aside>
 </div>
