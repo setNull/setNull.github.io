@@ -37,9 +37,7 @@
         "notoc": true,
         "tags": [
             "CNN",
-            "tensorflow",
-            "图片分类",
-            "深度学习"
+            "tensorflow"
         ],
         "categories": [
             "machine-learning"
