@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.yimiyisu.club/posts/tensorflow_basic/</loc>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.yimiyisu.club/posts/hosting-hugo-with-github-pages/</loc>
     <lastmod>2018-07-23T00:00:00+00:00</lastmod>
   </url>
@@ -13,8 +18,14 @@
   </url>
   
   <url>
+    <loc>https://blog.yimiyisu.club/tags/</loc>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yimiyisu.club/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
   </url>
   
   <url>
@@ -24,7 +35,7 @@
   
   <url>
     <loc>https://blog.yimiyisu.club/categories/effective/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +59,13 @@
   
   <url>
     <loc>https://blog.yimiyisu.club/posts/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.yimiyisu.club/tags/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
