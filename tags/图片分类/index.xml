@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on 一米一粟的技术博客</title>
-    <link>https://blog.yimiyisu.club/categories/machine-learning/</link>
-    <description>Recent content in Machine Learning on 一米一粟的技术博客</description>
+    <title>图片分类 on 一米一粟的技术博客</title>
+    <link>https://blog.yimiyisu.club/tags/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/</link>
+    <description>Recent content in 图片分类 on 一米一粟的技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>wangjie2011cs@gmail.com (一米一粟)</managingEditor>
     <webMaster>wangjie2011cs@gmail.com (一米一粟)</webMaster>
     <lastBuildDate>Wed, 01 Aug 2018 15:35:02 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.yimiyisu.club/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.yimiyisu.club/tags/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <author>wangjie2011cs@gmail.com (一米一粟)</author>
       <guid>https://blog.yimiyisu.club/posts/cnn-tensorflow/</guid>
       <description>前言 在这篇Tensorflow入门教程中，我将用TF实现一个基于卷积神经网络（CNN）的图片分类器。 本文基于tensorflow-tutor</description>
-    </item>
-    
-    <item>
-      <title>Tensorflow 基础知识（开篇）</title>
-      <link>https://blog.yimiyisu.club/posts/tensorflow_basic/</link>
-      <pubDate>Wed, 01 Aug 2018 08:23:39 +0800</pubDate>
-      <author>wangjie2011cs@gmail.com (一米一粟)</author>
-      <guid>https://blog.yimiyisu.club/posts/tensorflow_basic/</guid>
-      <description>TensorFlow基础 本文基于TensorFlow Official Tutorial，结合平时使用，手把手教你入门TF。 TensorFlow是一个用于数值</description>
     </item>
     
   </channel>

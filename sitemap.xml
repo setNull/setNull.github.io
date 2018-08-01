@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.yimiyisu.club/posts/cnn-tensorflow/</loc>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.yimiyisu.club/posts/tensorflow_basic/</loc>
     <lastmod>2018-08-01T08:23:39+08:00</lastmod>
   </url>
@@ -19,11 +24,17 @@
   
   <url>
     <loc>https://blog.yimiyisu.club/</loc>
-    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.yimiyisu.club/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yimiyisu.club/tags/cnn/</loc>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +58,7 @@
   
   <url>
     <loc>https://blog.yimiyisu.club/categories/machine-learning/</loc>
-    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,19 +70,31 @@
   
   <url>
     <loc>https://blog.yimiyisu.club/posts/</loc>
-    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.yimiyisu.club/tags/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.yimiyisu.club/tags/tensorflow/</loc>
-    <lastmod>2018-08-01T08:23:39+08:00</lastmod>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yimiyisu.club/tags/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yimiyisu.club/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2018-08-01T15:35:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   

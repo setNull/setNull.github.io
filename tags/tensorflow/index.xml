@@ -8,10 +8,19 @@
     <language>zh</language>
     <managingEditor>wangjie2011cs@gmail.com (一米一粟)</managingEditor>
     <webMaster>wangjie2011cs@gmail.com (一米一粟)</webMaster>
-    <lastBuildDate>Wed, 01 Aug 2018 08:23:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 15:35:02 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.yimiyisu.club/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TF实现的基于CNN的图片分类</title>
+      <link>https://blog.yimiyisu.club/posts/cnn-tensorflow/</link>
+      <pubDate>Wed, 01 Aug 2018 15:35:02 +0800</pubDate>
+      <author>wangjie2011cs@gmail.com (一米一粟)</author>
+      <guid>https://blog.yimiyisu.club/posts/cnn-tensorflow/</guid>
+      <description>前言 在这篇Tensorflow入门教程中，我将用TF实现一个基于卷积神经网络（CNN）的图片分类器。 本文基于tensorflow-tutor</description>
+    </item>
     
     <item>
       <title>Tensorflow 基础知识（开篇）</title>
