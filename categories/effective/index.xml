@@ -8,19 +8,10 @@
     <language>zh</language>
     <managingEditor>wangjie2011cs@gmail.com (一米一粟)</managingEditor>
     <webMaster>wangjie2011cs@gmail.com (一米一粟)</webMaster>
-    <lastBuildDate>Wed, 01 Aug 2018 08:23:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.yimiyisu.club/categories/effective/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tensorflow_basic</title>
-      <link>https://blog.yimiyisu.club/posts/tensorflow_basic/</link>
-      <pubDate>Wed, 01 Aug 2018 08:23:39 +0800</pubDate>
-      <author>wangjie2011cs@gmail.com (一米一粟)</author>
-      <guid>https://blog.yimiyisu.club/posts/tensorflow_basic/</guid>
-      <description>TensorFlow基础 本文基于TensorFlow Official Tutorial，结合平时使用，手把手教你入门TF。 TensorFlow是一个用于数值</description>
-    </item>
     
     <item>
       <title>Host Blog on Github Pages</title>

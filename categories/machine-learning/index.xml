@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on 一米一粟的技术博客</title>
+    <link>https://blog.yimiyisu.club/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on 一米一粟的技术博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wangjie2011cs@gmail.com (一米一粟)</managingEditor>
+    <webMaster>wangjie2011cs@gmail.com (一米一粟)</webMaster>
+    <lastBuildDate>Wed, 01 Aug 2018 08:23:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.yimiyisu.club/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow_basic</title>
+      <link>https://blog.yimiyisu.club/posts/tensorflow_basic/</link>
+      <pubDate>Wed, 01 Aug 2018 08:23:39 +0800</pubDate>
+      <author>wangjie2011cs@gmail.com (一米一粟)</author>
+      <guid>https://blog.yimiyisu.club/posts/tensorflow_basic/</guid>
+      <description>TensorFlow基础 本文基于TensorFlow Official Tutorial，结合平时使用，手把手教你入门TF。 TensorFlow是一个用于数值</description>
+    </item>
+    
+  </channel>
+</rss>
