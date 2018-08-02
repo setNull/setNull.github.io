@@ -308,7 +308,7 @@ autocomplete('#aa-search-input',
     <section id="datecount">
         <h4 id="date"> Wed Aug 1, 2018</h4>
     </section>
-    <h5 id="wc">2800 Words|Read in about 6 Min</h5>
+    <h5 id="wc">2900 Words|Read in about 6 Min</h5>
     <h5 id="tags">Tags: 
         
         <a href="https://blog.yimiyisu.club/tags/tensorflow/">TensorFlow</a> &nbsp;
@@ -318,6 +318,28 @@ autocomplete('#aa-search-input',
             
             <article role="main" class="blog-post" itemprop="articleBody" id="content">
                 
+  
+  <aside class="toc">
+    <nav id="TableOfContents">
+<ul>
+<li><a href="#tensorflow基础">TensorFlow基础</a>
+<ul>
+<li>
+<ul>
+<li><a href="#tensorflow中的图">TensorFlow中的图</a></li>
+<li><a href="#tensorflow会话">TensorFlow会话</a></li>
+<li><a href="#tensorflow中的tensors">TensorFlow中的Tensors</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#简单代码样例">简单代码样例</a>
+<ul>
+<li><a href="#线性回归练习">线性回归练习：</a></li>
+</ul></li>
+</ul>
+</nav>
+  </aside>
+  
+
 
                 
 
@@ -388,7 +410,7 @@ sess.close()
 
 <h3 id="tensorflow中的tensors">TensorFlow中的Tensors</h3>
 
-<p>TF将数据保存在Tensors中，它有点像numPy包中的多维数组（尽管它们和numPy数组不同）</p>
+<p>TF将数据保存在Tensors中，它有点像numPy包中的多维数组（尽管它们和numPy数组不同）(<strong>TODO</strong>)</p>
 
 <ul>
 <li>常量</li>
@@ -574,8 +596,10 @@ Y = tf.placeholder(&quot;float&quot;)
 y_model = tf.multiply(X, w)
 
 cost = (tf.pow(Y-y_model, 2))
-train_op = tf.train.GradientDescentOptimizer(0.01).minimize(cost
+train_op = tf.train.GradientDescentOptimizer(0.01).minimize(cost)
 </code></pre>
+
+<p>至于梯度下降的数学原理，这里先不介绍了。(<strong>TODO</strong>)</p>
 
 <ol>
 <li>训练</li>
