@@ -24,7 +24,7 @@
     {
         "title": "TF实现的基于CNN的图片分类",
         "uri": "posts/cnn-tensorflow",
-        "content": "Tensorflow         TF             CNN             tensorflow tutorial                                      tensorflow                           CNN                  TF    CNN              CNN Basics                                          TODO  CNN      1     2     3               TODO  1       2               TF    CNN                    real world                     CPU                                                    OpenCV Shape   SoftMax              Flattening",
+        "content": "Tensorflow         TF             CNN             tensorflow tutorial                                      tensorflow                           CNN                  TF    CNN              CNN Basics                                          TODO  CNN      1     2     3               TODO  1       2                 TF    CNN                    real world                     CPU                                                          Kaggle Dogs vs Cats               2               500     80                         20                                                              400               Flattening",
         "objectID": "posts/cnn-tensorflow",
         "date": "2018-08-01T07:35:02.000Z",
         "bigimg": [
